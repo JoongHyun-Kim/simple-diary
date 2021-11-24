@@ -1,2 +1,2 @@
-# simple-diary
-✏️ Simple diary using React.js
+# ✏️ simple-diary
+> Simple diary using React.js
